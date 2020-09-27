@@ -16,7 +16,7 @@ body {
 .enter{
     position: relative;
     z-index: 1;
-    background: rgb(245, 236, 236);
+    background: rgb(32, 32, 32);
     color: #fff;
     max-width: 360px;
     margin: 0% auto 100px;
